@@ -1,0 +1,40 @@
+// gallery.scss
+
+.carousel-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .image-gallery {
+    width: 100%; /* Adjust the width as needed */
+  }
+  
+  .image-gallery-slide img {
+    max-width: 100%;
+    max-height: 60vh; /* Adjust the height as needed */
+    margin: 0 auto;
+    display: block;
+    object-fit: contain;
+  }
+  
+  .image-gallery-thumbnails {
+    margin-top: 20px;
+  }
+  
+  .image-gallery-thumbnail img {
+    max-width: 100%;
+    max-height: 60px;
+    object-fit: cover;
+    cursor: pointer;
+  }
+  
+  .image-gallery-description {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+  }
+  
