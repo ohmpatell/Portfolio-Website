@@ -19,9 +19,6 @@ const Navbar = () => {
           <a href="https://linkedin.com/in/ohmpatel1">
             <img src="/linkedin.png" alt="" />
           </a>
-          <a href="https://instagram.com/ohmpatell">
-            <img src="/instagram.png" alt="" />
-          </a>
           <a href="https://twitter.com/ohmpatell">
             <img src="/twitterx.png" alt="" />
           </a>
