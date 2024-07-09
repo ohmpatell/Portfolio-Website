@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This is a portfolio website built using Vite and React. It showcases my projects, skills, and experience.
+This is a portfolio website built using Vite and React. It showcases my projects, skills, and experience. Hosted on vercel at [https://www.ohmpatel.live/](https://www.ohmpatel.live/)
 
 ## Features
 
